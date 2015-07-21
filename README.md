@@ -1,6 +1,6 @@
 # README #
 
-This is my Enginer's thesis (Russian degree) software part. Code is difficult to understood, but someone may be interested.
+This is my Engineer's thesis (Russian degree) software part. Code is difficult to understood, but someone may be interested.
 
 ### What is this repository for? ###
 
